@@ -1,5 +1,3 @@
-//package edu.princeton.algos.percolate;
-
 /****************************************************************************
  *  Compilation:  javac Percolation.java
  *  Execution:    java Percolation input.txt
@@ -17,10 +15,6 @@
  *  with with site (1, 1) in the upper left-hand corner.
  *
  ****************************************************************************/
-
-
-//import edu.princeton.util.In;
-//import edu.princeton.util.StdDraw;
 
 import java.awt.Font;
 

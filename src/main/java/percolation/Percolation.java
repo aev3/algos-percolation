@@ -142,8 +142,10 @@ public class Percolation {
     }
 
     /**
+     * <p>
      * Method that connects the each open row and column pair with all adjacent
-     * rows, column pairs.
+     * rows, column pairs. Connects new site (i, j) to all adjacent open sites.
+     * </p>
      *
      * @param i - int used with j to determine if a site is open
      * @param j - int used with i to determine if a site is open
